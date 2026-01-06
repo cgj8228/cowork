@@ -9,8 +9,8 @@
   },
   "info": {
     "description": "React와 Node.js를 활용하여 풀스택 개발을 하고 있습니다.",
-    "birthday": "1996.05.12",
-    "location": "서울시 송파구",
+    "birthday": "2001.06.11",
+    "location": "서울시 강남구",
     "email": "member4@example.com",
     "phone": "010-4444-4444"
   },
@@ -32,7 +32,7 @@
   ],
   "education": [
     {
-      "name": "스파르타 고등학교",
+      "name": "중산 고등학교",
       "period": "2012.03.02 ~ 2015.02.14",
       "location": "서울시 송파구"
     },
