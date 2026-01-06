@@ -1,6 +1,6 @@
 {
   "id": "member5",
-  "name": "정데이터",
+  "name": "이재민",
   "subName": "데이터 분석가",
   "profileImage": "image/profile_image.png",
   "introduction": {
@@ -9,10 +9,7 @@
   },
   "info": {
     "description": "Python과 SQL을 활용하여 데이터 분석을 하고 있습니다.",
-    "birthday": "1997.09.25",
-    "location": "서울시 영등포구",
-    "email": "member5@example.com",
-    "phone": "010-5555-5555"
+    "email": "member5@example.com"
   },
   "strengths": [
     "분석력",
@@ -59,8 +56,8 @@
   ],
   "projects": [
     {
-      "title": "대시보드 개발",
-      "description": "비즈니스 지표를 시각화하는 대시보드를 개발했습니다. Python과 Tableau를 활용하여 실시간 데이터를 모니터링하고, 주요 지표를 한눈에 볼 수 있도록 구현했습니다.",
+      "title": "영주시 무인자전거 어플리케이션",
+      "description": "무인자전거 대여/반납 시스템의 최적화된 위치와 해당 장소에 몇 대의 여분이 있는 지 어플로 구현했습니다.",
       "image": "image/p1.png",
       "link": "project.html"
     }
