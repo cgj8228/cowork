@@ -1,6 +1,6 @@
 {
   "id": "member2",
-  "name": "이백엔드",
+  "name": "김예은",
   "subName": "백엔드 개발자",
   "profileImage": "image/profile_image.png",
   "introduction": {
@@ -9,10 +9,10 @@
   },
   "info": {
     "description": "Node.js와 Python을 활용하여 백엔드 개발을 하고 있습니다.",
-    "birthday": "1997.07.15",
-    "location": "서울시 서초구",
-    "email": "member2@example.com",
-    "phone": "010-2222-2222"
+    "birthday": "2003.02.07",
+    "location": "경상북도",
+    "email": "rioloelux@gmail.com",
+    "phone": "010-3698-3521"
   },
   "strengths": [
     "체계성",
@@ -27,43 +27,7 @@
     { "name": "MongoDB", "progress": 70 }
   ],
   "licenses": [
-    "AWS 자격증",
-    "정보처리기사"
-  ],
-  "education": [
-    {
-      "name": "스파르타 고등학교",
-      "period": "2013.03.02 ~ 2016.02.14",
-      "location": "서울시 서초구"
-    },
-    {
-      "name": "스파르타 대학교",
-      "period": "2016.03.02 ~ 2020.02.20",
-      "gpa": "3.8",
-      "location": "서울시 서초구"
-    }
-  ],
-  "experience": [
-    {
-      "period": "1년 6개월",
-      "company": "클라우드 서비스 회사",
-      "term": "2021.07~2023.01",
-      "team": "백엔드팀, 주니어 개발자",
-      "task": "RESTful API 개발 및 데이터베이스 관리",
-      "project": {
-        "name": "마이크로서비스 아키텍처 구축",
-        "term": "2022.01~2022.12",
-        "detail": "Node.js와 Docker를 사용한 마이크로서비스 아키텍처 설계 및 구현"
-      }
-    }
-  ],
-  "projects": [
-    {
-      "title": "API 서버 개발",
-      "description": "Express와 MongoDB를 활용한 RESTful API 서버를 개발했습니다. 인증, 권한 관리, 데이터 검증 기능을 구현하여 안정적인 백엔드 서비스를 제공합니다.",
-      "image": "image/p2.png",
-      "link": "project2.html"
-    }
+    "컴퓨터 활용 능력"
   ]
 }
 
