@@ -12,7 +12,7 @@ Git 커밋 협업을 통한 우리팀 팀원 소개 페이지 입니다.
 
 템플릿 활용하여 각자 역할에 맞는 소개 카드의 내용 수정
 
-[참고 템플릿]()
+[참고 템플릿: https://github.com/RyanKor/sparta-git-cowork.git]()
 
 ## 공통 과제 안내
 

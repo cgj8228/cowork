@@ -1,6 +1,6 @@
 {
   "id": "member4",
-  "name": "최풀스택",
+  "name": "최길중",
   "subName": "풀스택 개발자",
   "profileImage": "image/profile_image.png",
   "introduction": {
@@ -11,8 +11,8 @@
     "description": "React와 Node.js를 활용하여 풀스택 개발을 하고 있습니다.",
     "birthday": "2001.06.11",
     "location": "서울시 강남구",
-    "email": "member4@example.com",
-    "phone": "010-4444-4444"
+    "email": "kj8228@naver.com",
+    "phone": "010-7369-8228"
   },
   "strengths": [
     "통찰력",
@@ -33,12 +33,12 @@
   "education": [
     {
       "name": "중산 고등학교",
-      "period": "2012.03.02 ~ 2015.02.14",
-      "location": "서울시 송파구"
+      "period": "2017.03.02 ~ 2020.02.14",
+      "location": "서울시 일원동"
     },
     {
       "name": "스파르타 대학교",
-      "period": "2015.03.02 ~ 2019.02.20",
+      "period": "2025.12.28 ~ 2026.06.23",
       "gpa": "3.9",
       "location": "서울시 송파구"
     }
